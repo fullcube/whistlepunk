@@ -52,7 +52,7 @@
     "debug": "2.2.0",
     "lodash": "3.10.x",
     "machina": "1.x",
-    "moment": "2.10.2",
+    "moment": "2.17.x",
     "when": "3.x",
     "postal": "1.x"
   },
